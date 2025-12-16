@@ -118,6 +118,7 @@ while True:
     
 
 
+
     if op == '0':
         print(f'{ORANGE}Volte sempre!')
         time.sleep(0.3)
